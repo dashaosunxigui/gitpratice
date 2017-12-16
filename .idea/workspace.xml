@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6bb25b-c892-4058-98d0-3690b5a83b77" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> 00a6b2de90802fc3e0208aa28b7ab72245762f6e
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +23,13 @@
       <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="150">
               <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+=======
+            <state relative-caret-position="135">
+              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+>>>>>>> 00a6b2de90802fc3e0208aa28b7ab72245762f6e
               <folding />
             </state>
           </provider>
@@ -52,8 +61,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="134" />
-    <option name="y" value="33" />
+    <option name="x" value="78" />
+    <option name="y" value="204" />
     <option name="width" value="1400" />
     <option name="height" value="932" />
   </component>
@@ -124,12 +133,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513401890433</updated>
-      <workItem from="1513401893535" duration="457000" />
+      <workItem from="1513401893535" duration="1573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="502000" />
+=======
+    <option name="totallyTimeSpent" value="1573000" />
+>>>>>>> 00a6b2de90802fc3e0208aa28b7ab72245762f6e
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="204" width="1400" height="932" extended-state="0" />
@@ -170,6 +183,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+<<<<<<< HEAD
           <folding />
         </state>
       </provider>
@@ -178,6 +192,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+=======
+>>>>>>> 00a6b2de90802fc3e0208aa28b7ab72245762f6e
           <folding />
         </state>
       </provider>
