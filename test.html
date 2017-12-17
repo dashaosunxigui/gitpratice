@@ -12,5 +12,18 @@
     <h2>呦呦呦，切克闹</h2>
     <h3>一一一一</h3>
     <h4>二二二二</h4>
+    <h5>三三三</h5>
 </body>
+<script>
+    function fn1() {
+        var a = 2;
+        console.log(this);
+        this.fn2();
+
+    }
+    function fn2(){
+        console.log(this.a);
+    }
+    fn1()
+</script>
 </html>
